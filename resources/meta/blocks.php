@@ -1,0 +1,148 @@
+<?php
+
+return [
+    [
+        'id' => 'hero',
+        'title' => 'Hero',
+        'description' => 'Centered marketing hero with dual CTAs.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'pricing',
+        'title' => 'Pricing',
+        'description' => 'Three-tier pricing strip with badges and CTAs.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'feature-grid',
+        'title' => 'Feature grid',
+        'description' => 'Headline plus a responsive grid of feature cards.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'logos',
+        'title' => 'Logos',
+        'description' => 'Muted logo strip for social proof.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'faq',
+        'title' => 'FAQ',
+        'description' => 'Accordion FAQ section with optional footer link.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'cta',
+        'title' => 'CTA',
+        'description' => 'Centered call-to-action band with dual buttons.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'testimonials',
+        'title' => 'Testimonials',
+        'description' => 'Quote cards in a responsive grid.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'newsletter',
+        'title' => 'Newsletter',
+        'description' => 'Email capture section with slot for the form.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'footer',
+        'title' => 'Footer',
+        'description' => 'Marketing footer with link columns and legal row.',
+        'category' => 'Marketing',
+    ],
+    [
+        'id' => 'login',
+        'title' => 'Login',
+        'description' => 'Email and password sign-in card on a muted canvas.',
+        'category' => 'Auth',
+    ],
+    [
+        'id' => 'register',
+        'title' => 'Register',
+        'description' => 'Create-account form with terms checkbox.',
+        'category' => 'Auth',
+    ],
+    [
+        'id' => 'forgot-password',
+        'title' => 'Forgot password',
+        'description' => 'Reset-password request card.',
+        'category' => 'Auth',
+    ],
+    [
+        'id' => 'app-shell',
+        'title' => 'App shell',
+        'description' => 'Header, collapsible sidebar, and main workspace.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'settings',
+        'title' => 'Settings',
+        'description' => 'Profile fields, notification switches, and a danger zone.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'empty-state',
+        'title' => 'Empty state',
+        'description' => 'Centered empty composition with media, copy, and actions.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'page-header',
+        'title' => 'Page header',
+        'description' => 'Title, description, and trailing actions for app pages.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'stats-row',
+        'title' => 'Stats row',
+        'description' => 'Compact metric cards in a responsive row.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'billing-cards',
+        'title' => 'Billing cards',
+        'description' => 'Current plan and payment method summary cards.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'invite-banner',
+        'title' => 'Invite banner',
+        'description' => 'Inline banner to invite teammates.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'danger-zone',
+        'title' => 'Danger zone',
+        'description' => 'Destructive alert with confirm action.',
+        'category' => 'Application',
+    ],
+    [
+        'id' => 'form-validation',
+        'title' => 'Form validation',
+        'description' => 'Progressive field errors for static and Livewire-style demos.',
+        'category' => 'Forms',
+    ],
+    [
+        'id' => 'toast-action',
+        'title' => 'Toast action',
+        'description' => 'Card that dispatches slate-toast events from a button.',
+        'category' => 'Feedback',
+    ],
+    [
+        'id' => 'confirm-dialog',
+        'title' => 'Confirm dialog',
+        'description' => 'Alert dialog pattern for irreversible actions.',
+        'category' => 'Feedback',
+    ],
+    [
+        'id' => 'alert-banner',
+        'title' => 'Alert banner',
+        'description' => 'Full-width status banner with optional action.',
+        'category' => 'Feedback',
+    ],
+];

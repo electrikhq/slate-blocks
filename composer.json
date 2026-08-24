@@ -1,0 +1,46 @@
+{
+    "name": "electrik/slate-blocks",
+    "description": "Curated Blade UI blocks for Electrik Slate — marketing, auth, and application sections composed from Slate primitives.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "blade",
+        "ui",
+        "blocks",
+        "electrik",
+        "slate",
+        "tailwind"
+    ],
+    "authors": [
+        {
+            "name": "neerajsohal",
+            "email": "hello@electrik.dev"
+        }
+    ],
+    "homepage": "https://github.com/electrikhq/slate-blocks",
+    "support": {
+        "issues": "https://github.com/electrikhq/slate-blocks/issues",
+        "source": "https://github.com/electrikhq/slate-blocks"
+    },
+    "version": "0.1.0-alpha.1",
+    "require": {
+        "php": "^8.3",
+        "electrik/slate": "^3.0@alpha",
+        "illuminate/support": "^12.0|^13.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Electrik\\SlateBlocks\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Electrik\\SlateBlocks\\SlateBlocksServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
