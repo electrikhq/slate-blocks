@@ -50,6 +50,8 @@ Scan block views so classes are generated:
 />
 ```
 
+**Need the full SaaS shell?** Blocks compose with [Electrik](https://electrik.dev) (auth, teams, Stripe) — [install](https://electrik.dev/install).
+
 Catalog metadata (docs gallery / MCP):
 
 ```php
