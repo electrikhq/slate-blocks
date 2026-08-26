@@ -23,7 +23,7 @@
         "issues": "https://github.com/electrikhq/slate-blocks/issues",
         "source": "https://github.com/electrikhq/slate-blocks"
     },
-    "version": "0.1.0-alpha.1",
+    "version": "0.1.0",
     "require": {
         "php": "^8.3",
         "electrik/slate": "^3.0",
