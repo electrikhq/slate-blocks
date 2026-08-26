@@ -8,7 +8,7 @@ Curated Blade **blocks** for [Electrik Slate](https://slate.electrik.dev) — ma
 
 - PHP 8.3+
 - Laravel 12+
-- `electrik/slate` ^3.0@alpha
+- `electrik/slate` ^3.0
 
 ## Install
 
