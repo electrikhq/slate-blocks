@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0] - 2026-10-22
+
+### Changed
+
+- Animated illustrations moved to [`electrik/slate-illustrations`](https://github.com/electrikhq/slate-illustrations) as `<x-slate-illustration::*>`.
+- Removed `illustration-*` components and `resources/css/illustrations.css` from this package.
+
 ## [0.2.0] - 2026-10-21
 
 ### Added

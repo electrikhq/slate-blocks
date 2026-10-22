@@ -145,40 +145,4 @@ return [
         'description' => 'Full-width status banner with optional action.',
         'category' => 'Feedback',
     ],
-    [
-        'id' => 'illustration-deploy',
-        'title' => 'Illustration · Deploy',
-        'description' => 'Looping production deploy pipeline for marketing bento cards.',
-        'category' => 'Illustration',
-    ],
-    [
-        'id' => 'illustration-billing',
-        'title' => 'Illustration · Billing',
-        'description' => 'Team MRR, seats, and a live-feeling usage sparkline.',
-        'category' => 'Illustration',
-    ],
-    [
-        'id' => 'illustration-invites',
-        'title' => 'Illustration · Invites',
-        'description' => 'Teammates joining a workspace, one invite at a time.',
-        'category' => 'Illustration',
-    ],
-    [
-        'id' => 'illustration-kanban',
-        'title' => 'Illustration · Kanban',
-        'description' => 'Cards moving across To do, In progress, and Done.',
-        'category' => 'Illustration',
-    ],
-    [
-        'id' => 'illustration-activity',
-        'title' => 'Illustration · Activity',
-        'description' => 'Scrolling product activity feed for hero and feature grids.',
-        'category' => 'Illustration',
-    ],
-    [
-        'id' => 'illustration-chat',
-        'title' => 'Illustration · Chat',
-        'description' => 'Assistant thread with messages appearing in sequence.',
-        'category' => 'Illustration',
-    ],
 ];
